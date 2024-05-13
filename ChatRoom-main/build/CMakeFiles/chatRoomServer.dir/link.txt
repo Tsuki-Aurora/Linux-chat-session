@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/chatRoomServer.dir/src/chatRoomServer.cpp.o  -o chatRoomServer  -Wl,-rpath,/home/ddb/文档/Linux课程设计/客户端/ChatRoom-main/build -lpthread libcppNetWork.so -lmysqlclient 

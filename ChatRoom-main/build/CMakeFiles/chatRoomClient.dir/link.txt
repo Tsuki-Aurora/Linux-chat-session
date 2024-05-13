@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/chatRoomClient.dir/src/chatRoomClient.cpp.o  -o chatRoomClient  -Wl,-rpath,/home/ddb/文档/Linux课程设计/客户端/ChatRoom-main/build -lpthread libcppNetWork.so 

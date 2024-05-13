@@ -1,0 +1,5 @@
+/home/ddb/文档/Linux课程设计/客户端/ChatRoom-main/build/CMakeFiles/rebuild_cache.dir
+/home/ddb/文档/Linux课程设计/客户端/ChatRoom-main/build/CMakeFiles/chatRoomClient.dir
+/home/ddb/文档/Linux课程设计/客户端/ChatRoom-main/build/CMakeFiles/edit_cache.dir
+/home/ddb/文档/Linux课程设计/客户端/ChatRoom-main/build/CMakeFiles/chatRoomServer.dir
+/home/ddb/文档/Linux课程设计/客户端/ChatRoom-main/build/CMakeFiles/cppNetWork.dir

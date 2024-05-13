@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/cppNetWork.h
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+cstring
+-
+unistd.h
+-
+netdb.h
+-
+string.h
+-
+string
+-
+fstream
+-
+stdio.h
+-
+stdarg.h
+-
+sys/select.h
+-
+sys/time.h
+-
+arpa/inet.h
+-
+
+/home/ddb/文档/Linux课程设计/客户端/ChatRoom-main/src/cppNetWork.cpp
+cppNetWork.h
+/home/ddb/文档/Linux课程设计/客户端/ChatRoom-main/src/cppNetWork.h
+
